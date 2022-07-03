@@ -43,3 +43,32 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
+.lw{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px ;
+    box-shadow: 10px 10px 50px gray;
+
+    border-radius: 10px;
+}
+.exp{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.lss{
+
+    border-left: 6px solid blue;
+    
+}
+.lww{
+
+    border-left: 6px solid rgb(255, 111, 0);
+}
+footer p{
+    text-align: center;
+}
+.bbb{
+    padding: 5%;
+}
